@@ -1,5 +1,11 @@
 # @moonshot-ai/kap-server
 
+## 0.2.1
+
+### Patch Changes
+
+- [#2417](https://github.com/MoonshotAI/kimi-code/pull/2417) [`e22479a`](https://github.com/MoonshotAI/kimi-code/commit/e22479a62eed9c3b78a67b313f4332c2c0ba9670) Thanks [@liruifengv](https://github.com/liruifengv)! - Expose the effective experimental-flag map as `experimental_flags` on `GET /api/v1/meta`.
+
 ## 0.2.0
 
 ### Minor Changes
